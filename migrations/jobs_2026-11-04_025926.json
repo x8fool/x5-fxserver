@@ -1,0 +1,41 @@
+[
+  {
+    "name": "ambulance",
+    "label": "Ambulance"
+  },
+  {
+    "name": "council",
+    "label": "สภาผู้แทนราษฎร"
+  },
+  {
+    "name": "foodpanda",
+    "label": "Foodpanda"
+  },
+  {
+    "name": "mechanic",
+    "label": "Mechanic"
+  },
+  {
+    "name": "offambulance",
+    "label": "Off-Duty"
+  },
+  {
+    "name": "offfoodpanda",
+    "label": "Off-Duty"
+  },
+  {
+    "name": "offmechanic",
+    "label": "Off-Duty"
+  },
+  {
+    "name": "offpolice",
+    "label": "Off-Duty"
+  },
+  {
+    "name": "police",
+    "label": "LSPD"
+  },
+  {
+    "name": "unemployed",
+    "label": "ว่างงาน"
+  }]

@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "item": "bread",
+    "price": 30,
+    "category": "Normal"
+  },
+  {
+    "id": 2,
+    "item": "water",
+    "price": 30,
+    "category": "Normal"
+  },
+  {
+    "id": 23,
+    "item": "hookah",
+    "price": 1000,
+    "category": "Weed"
+  },
+  {
+    "id": 26,
+    "item": "lrod",
+    "price": 500,
+    "category": "Fish"
+  },
+  {
+    "id": 27,
+    "item": "lbait",
+    "price": 5,
+    "category": "Fish"
+  },
+  {
+    "id": 29,
+    "item": "plongee1",
+    "price": 100,
+    "category": "Police"
+  },
+  {
+    "id": 32,
+    "item": "fixkit",
+    "price": 3200,
+    "category": "Car"
+  },
+  {
+    "id": 37,
+    "item": "handcuffs",
+    "price": 95000,
+    "category": "Hand"
+  },
+  {
+    "id": 38,
+    "item": "handcuffs_key",
+    "price": 3000,
+    "category": "Hand"
+  },
+  {
+    "id": 40,
+    "item": "paper_bag",
+    "price": 5000,
+    "category": "Hand"
+  },
+  {
+    "id": 59,
+    "item": "donut1",
+    "price": 40,
+    "category": "Prison"
+  },
+  {
+    "id": 60,
+    "item": "donut2",
+    "price": 40,
+    "category": "Prison"
+  },
+  {
+    "id": 61,
+    "item": "water",
+    "price": 40,
+    "category": "Prison"
+  },
+  {
+    "id": 64,
+    "item": "phone",
+    "price": 2500,
+    "category": "Normal"
+  },
+  {
+    "id": 65,
+    "item": "lrod",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 67,
+    "item": "cardcabbage",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 68,
+    "item": "lbait",
+    "price": 5,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 70,
+    "item": "milk_engine",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 71,
+    "item": "drill",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 73,
+    "item": "pixcar",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 74,
+    "item": "hatchet_lj",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 75,
+    "item": "basket",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 76,
+    "item": "hammer",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 77,
+    "item": "pumpkin_shovel",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 78,
+    "item": "cigarett",
+    "price": 30,
+    "category": "Club"
+  },
+  {
+    "id": 79,
+    "item": "lighter",
+    "price": 220,
+    "category": "Club"
+  },
+  {
+    "id": 80,
+    "item": "beer",
+    "price": 110,
+    "category": "Club"
+  },
+  {
+    "id": 81,
+    "item": "weed_pooch",
+    "price": 150,
+    "category": "Club"
+  },
+  {
+    "id": 82,
+    "item": "bong",
+    "price": 900,
+    "category": "Club"
+  },
+  {
+    "id": 83,
+    "item": "juice",
+    "price": 50,
+    "category": "Normal"
+  },
+  {
+    "id": 84,
+    "item": "lrod2",
+    "price": 500,
+    "category": "SuperMarket"
+  },
+  {
+    "id": 88,
+    "item": "gacha_04",
+    "price": 50000,
+    "category": "Cleanmoney"
+  }]

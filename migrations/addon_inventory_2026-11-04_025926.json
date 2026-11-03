@@ -1,0 +1,46 @@
+[
+  {
+    "name": "housing",
+    "label": "Housing",
+    "shared": 0
+  },
+  {
+    "name": "property",
+    "label": "Propriété",
+    "shared": 0
+  },
+  {
+    "name": "society_ambulance",
+    "label": "Ambulance",
+    "shared": 1
+  },
+  {
+    "name": "society_cardealer",
+    "label": "Concesionnaire",
+    "shared": 1
+  },
+  {
+    "name": "society_council",
+    "label": "council",
+    "shared": 1
+  },
+  {
+    "name": "society_foodpanda",
+    "label": "Foodpanda",
+    "shared": 1
+  },
+  {
+    "name": "society_mechanic",
+    "label": "Mechanic",
+    "shared": 1
+  },
+  {
+    "name": "society_police",
+    "label": "Police",
+    "shared": 1
+  },
+  {
+    "name": "vault",
+    "label": "Vault",
+    "shared": 0
+  }]

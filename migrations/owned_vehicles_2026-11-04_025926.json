@@ -1,0 +1,25 @@
+[
+  {
+    "owner": "steam:11000010a33c8db",
+    "plate": "BRX 298",
+    "vehicle": "{\"modOrnaments\":-1,\"extras\":{\"1\":1},\"modFrontBumper\":-1,\"color2\":0,\"modSmokeEnabled\":false,\"tyreSmokeColor\":[255,255,255],\"modSteeringWheel\":-1,\"modShifterLeavers\":-1,\"modTurbo\":0,\"bodyHealth\":868.9,\"modRearBumper\":-1,\"modTrunk\":-1,\"neonColor\":[255,0,255],\"modLivery\":-1,\"plate\":\"BRX 298\",\"modArchCover\":-1,\"modTrimA\":-1,\"modEngineBlock\":-1,\"wheelColor\":156,\"neonEnabled\":[false,false,false,false],\"modSeats\":-1,\"modSideSkirt\":-1,\"wheels\":5,\"modStruts\":-1,\"modHydrolic\":-1,\"modHorns\":-1,\"modWindows\":-1,\"color2Custom\":[8,8,8],\"modSpeakers\":-1,\"modSpoilers\":-1,\"modAerials\":-1,\"modFrame\":-1,\"modSuspension\":-1,\"modExhaust\":-1,\"modDashboard\":-1,\"modAirFilter\":-1,\"modTrimB\":-1,\"modRightFender\":-1,\"color1\":0,\"modGrille\":-1,\"modRoof\":-1,\"modDial\":-1,\"engineHealth\":183.8,\"color2Type\":0,\"windowTint\":-1,\"modTransmission\":-1,\"modArmor\":-1,\"modXenon\":255,\"modFrontWheels\":-1,\"color1Type\":0,\"pearlescentColor\":18,\"modBrakes\":-1,\"color1Custom\":[153,153,153],\"livery\":-1,\"modEngine\":-1,\"modVanityPlate\":-1,\"fuelLevel\":48.4,\"dirtLevel\":8.5,\"modTank\":-1,\"modBackWheels\":-1,\"modAPlate\":-1,\"modHood\":-1,\"modDoorSpeaker\":-1,\"model\":-2098954619,\"modFender\":-1,\"plateIndex\":0,\"modPlateHolder\":-1}",
+    "type": "car",
+    "job": "",
+    "stored": 0,
+    "health_vehicles": "{\"health_body\":868.9388427734375,\"doors\":[false,false,false,false,false,false],\"fuel\":48.37385559082031,\"health_engine\":182.9908447265625,\"tyres\":[false,false,false,false,false,false,false]}",
+    "police": 0,
+    "police_by": null,
+    "time": null
+  },
+  {
+    "owner": "steam:11000010a33c8db",
+    "plate": "SLB 360",
+    "vehicle": "{\"modRightFender\":-1,\"modDashboard\":-1,\"modSpeakers\":-1,\"bodyHealth\":876.3,\"fuelLevel\":62.4,\"model\":-2098954619,\"wheels\":5,\"modSmokeEnabled\":false,\"neonColor\":[255,0,255],\"modSideSkirt\":-1,\"wheelColor\":156,\"modPlateHolder\":-1,\"modXenon\":255,\"modRoof\":-1,\"modBrakes\":-1,\"modTurbo\":0,\"modRearBumper\":-1,\"windowTint\":-1,\"modSuspension\":-1,\"modSeats\":-1,\"modVanityPlate\":-1,\"modWindows\":-1,\"color1Type\":0,\"neonEnabled\":[false,false,false,false],\"modStruts\":-1,\"modTrimB\":-1,\"color2\":0,\"color2Custom\":[8,8,8],\"dirtLevel\":3.1,\"modLivery\":-1,\"livery\":-1,\"engineHealth\":364.8,\"modGrille\":-1,\"modOrnaments\":-1,\"modHydrolic\":-1,\"extras\":{\"1\":1},\"modEngineBlock\":-1,\"plateIndex\":0,\"modHorns\":-1,\"modArchCover\":-1,\"modFrontWheels\":-1,\"color1Custom\":[8,8,8],\"modTrimA\":-1,\"modTransmission\":-1,\"modArmor\":-1,\"modDial\":-1,\"modTrunk\":-1,\"modFrontBumper\":-1,\"modAirFilter\":-1,\"modTank\":-1,\"modExhaust\":-1,\"modAerials\":-1,\"modAPlate\":-1,\"color2Type\":0,\"modEngine\":-1,\"modSteeringWheel\":-1,\"modSpoilers\":-1,\"modFender\":-1,\"modBackWheels\":-1,\"pearlescentColor\":92,\"modDoorSpeaker\":-1,\"tyreSmokeColor\":[255,255,255],\"modFrame\":-1,\"modShifterLeavers\":-1,\"modHood\":-1,\"plate\":\"SLB 360\",\"color1\":0}",
+    "type": "car",
+    "job": "",
+    "stored": 0,
+    "health_vehicles": "{\"doors\":[1,false,false,false,1,false],\"health_engine\":364.78228759765627,\"health_body\":876.3330078125,\"fuel\":62.36199188232422,\"tyres\":[false,false,false,false,false,false,false]}",
+    "police": 0,
+    "police_by": null,
+    "time": null
+  }]

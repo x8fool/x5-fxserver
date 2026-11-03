@@ -1,0 +1,41 @@
+[
+  {
+    "type": "boat",
+    "label": "ใบอนุญาติขับขี่เรือ"
+  },
+  {
+    "type": "coke_processing",
+    "label": "ใบอนุญาติผลิตโคเคน"
+  },
+  {
+    "type": "dig_processing",
+    "label": "dig Processing License"
+  },
+  {
+    "type": "dmv",
+    "label": "กฎหมายจราจร"
+  },
+  {
+    "type": "drive",
+    "label": "ใบอนุญาติขับขี่รถยนต์"
+  },
+  {
+    "type": "drive_bike",
+    "label": "ใบอนุญาติขับขี่รถจักรยานยนต์"
+  },
+  {
+    "type": "drive_truck",
+    "label": "ใบอนุญาติขับขี่รถบรรทุก"
+  },
+  {
+    "type": "meth_processing",
+    "label": "Meth Processing License"
+  },
+  {
+    "type": "weapon",
+    "label": "ใบอนุญาติพกอาวุธ"
+  },
+  {
+    "type": "weed_processing",
+    "label": "ใบอนุญาติผลิตกัญชา"
+  }]

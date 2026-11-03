@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "account_name": "society_ambulance",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 2,
+    "account_name": "society_banker",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 3,
+    "account_name": "society_cardealer",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 4,
+    "account_name": "society_foodpanda",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 5,
+    "account_name": "society_mechanic",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 6,
+    "account_name": "society_police",
+    "money": 1700,
+    "owner": null
+  },
+  {
+    "id": 7,
+    "account_name": "society_police_black_money",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 8,
+    "account_name": "society_realestateagent",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 9,
+    "account_name": "society_taxi",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 26,
+    "account_name": "society_council",
+    "money": 0,
+    "owner": null
+  },
+  {
+    "id": 27,
+    "account_name": "bank_savings",
+    "money": 0,
+    "owner": "steam:11000015b8b3350"
+  },
+  {
+    "id": 28,
+    "account_name": "property_black_money",
+    "money": 0,
+    "owner": "steam:11000015b8b3350"
+  },
+  {
+    "id": 29,
+    "account_name": "caution",
+    "money": 0,
+    "owner": "steam:11000015b8b3350"
+  },
+  {
+    "id": 30,
+    "account_name": "vault_black_money",
+    "money": 0,
+    "owner": "steam:11000015b8b3350"
+  }]

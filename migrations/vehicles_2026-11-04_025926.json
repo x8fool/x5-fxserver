@@ -1,0 +1,568 @@
+[
+  {
+    "name": "akuma",
+    "model": "akuma",
+    "price": 39000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "avarus",
+    "model": "avarus",
+    "price": 43000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "baller3",
+    "model": "baller3",
+    "price": 70000,
+    "category": "suvs",
+    "stock": 10
+  },
+  {
+    "name": "bati",
+    "model": "bati",
+    "price": 65000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "bjxl",
+    "model": "bjxl",
+    "price": 71000,
+    "category": "suvs",
+    "stock": 10
+  },
+  {
+    "name": "bmx",
+    "model": "bmx",
+    "price": 3000,
+    "category": "cycles",
+    "stock": 9
+  },
+  {
+    "name": "brawler",
+    "model": "brawler",
+    "price": 103000,
+    "category": "offroad",
+    "stock": 10
+  },
+  {
+    "name": "caracara2",
+    "model": "caracara2",
+    "price": 109000,
+    "category": "offroad",
+    "stock": 10
+  },
+  {
+    "name": "chimera",
+    "model": "chimera",
+    "price": 42000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "club",
+    "model": "club",
+    "price": 11999,
+    "category": "compacts",
+    "stock": 49
+  },
+  {
+    "name": "cogcabrio",
+    "model": "cogcabrio",
+    "price": 73000,
+    "category": "coupes",
+    "stock": 10
+  },
+  {
+    "name": "comet5",
+    "model": "comet5",
+    "price": 230000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "coquette4",
+    "model": "coquette4",
+    "price": 320000,
+    "category": "sports",
+    "stock": 9
+  },
+  {
+    "name": "cruiser",
+    "model": "cruiser",
+    "price": 3000,
+    "category": "cycles",
+    "stock": 10
+  },
+  {
+    "name": "cyclone",
+    "model": "cyclone",
+    "price": 640000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "daemon",
+    "model": "daemon",
+    "price": 42000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "daemon2",
+    "model": "daemon2",
+    "price": 45000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "diablous2",
+    "model": "diablous2",
+    "price": 64000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "drafter",
+    "model": "drafter",
+    "price": 290000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "dubsta",
+    "model": "dubsta",
+    "price": 70000,
+    "category": "suvs",
+    "stock": 10
+  },
+  {
+    "name": "dubsta3",
+    "model": "dubsta3",
+    "price": 106000,
+    "category": "offroad",
+    "stock": 10
+  },
+  {
+    "name": "elegy",
+    "model": "elegy",
+    "price": 290000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "enduro",
+    "model": "enduro",
+    "price": 52000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "entity2",
+    "model": "entity2",
+    "price": 680000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "entityxf",
+    "model": "entityxf",
+    "price": 620000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "faggio2",
+    "model": "faggio2",
+    "price": 9000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "faggio3",
+    "model": "faggio3",
+    "price": 9000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "fixter",
+    "model": "fixter",
+    "price": 3000,
+    "category": "cycles",
+    "stock": 10
+  },
+  {
+    "name": "flashgt",
+    "model": "flashgt",
+    "price": 260000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "fmj",
+    "model": "fmj",
+    "price": 650000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "freecrawler",
+    "model": "freecrawler",
+    "price": 105000,
+    "category": "offroad",
+    "stock": 10
+  },
+  {
+    "name": "furia",
+    "model": "furia",
+    "price": 770000,
+    "category": "super",
+    "stock": 9
+  },
+  {
+    "name": "gauntlet4",
+    "model": "gauntlet4",
+    "price": 99000,
+    "category": "muscle",
+    "stock": 10
+  },
+  {
+    "name": "gb200",
+    "model": "gb200",
+    "price": 210000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "gburrito",
+    "model": "gburrito",
+    "price": 25000,
+    "category": "vans",
+    "stock": 10
+  },
+  {
+    "name": "hustler",
+    "model": "hustler",
+    "price": 82000,
+    "category": "muscle",
+    "stock": 10
+  },
+  {
+    "name": "issi3",
+    "model": "issi3",
+    "price": 12000,
+    "category": "compacts",
+    "stock": 50
+  },
+  {
+    "name": "italigtb",
+    "model": "italigtb",
+    "price": 680000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "Jester",
+    "model": "jester",
+    "price": 240000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "kamacho",
+    "model": "kamacho",
+    "price": 104000,
+    "category": "offroad",
+    "stock": 10
+  },
+  {
+    "name": "kanjo",
+    "model": "kanjo",
+    "price": 16000,
+    "category": "compacts",
+    "stock": 50
+  },
+  {
+    "name": "Locust",
+    "model": "locust",
+    "price": 223456,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "neon",
+    "model": "neon",
+    "price": 270000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "nero2",
+    "model": "nero2",
+    "price": 680000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "nightblade",
+    "model": "nightblade",
+    "price": 59000,
+    "category": "motorcycles",
+    "stock": 9
+  },
+  {
+    "name": "nightshade",
+    "model": "nightshade",
+    "price": 99000,
+    "category": "muscle",
+    "stock": 10
+  },
+  {
+    "name": "osiris",
+    "model": "osiris",
+    "price": 620000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "panto",
+    "model": "panto",
+    "price": 12500,
+    "category": "compacts",
+    "stock": 50
+  },
+  {
+    "name": "pariah",
+    "model": "pariah",
+    "price": 285000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "patriot",
+    "model": "patriot",
+    "price": 69000,
+    "category": "suvs",
+    "stock": 10
+  },
+  {
+    "name": "patriot2",
+    "model": "patriot2",
+    "price": 72000,
+    "category": "suvs",
+    "stock": 10
+  },
+  {
+    "name": "reaper",
+    "model": "reaper",
+    "price": 600000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "rhapsody",
+    "model": "rhapsody",
+    "price": 7000,
+    "category": "compacts",
+    "stock": 50
+  },
+  {
+    "name": "rumpo",
+    "model": "rumpo",
+    "price": 22000,
+    "category": "vans",
+    "stock": 10
+  },
+  {
+    "name": "rumpo3",
+    "model": "rumpo3",
+    "price": 25000,
+    "category": "vans",
+    "stock": 10
+  },
+  {
+    "name": "sabregt2",
+    "model": "sabregt2",
+    "price": 89000,
+    "category": "muscle",
+    "stock": 10
+  },
+  {
+    "name": "sanctus",
+    "model": "sanctus",
+    "price": 62000,
+    "category": "motorcycles",
+    "stock": 10
+  },
+  {
+    "name": "schlagen",
+    "model": "schlagen",
+    "price": 240000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "scorcher",
+    "model": "scorcher",
+    "price": 3000,
+    "category": "cycles",
+    "stock": 9
+  },
+  {
+    "name": "sentinel2",
+    "model": "sentinel2",
+    "price": 75000,
+    "category": "coupes",
+    "stock": 10
+  },
+  {
+    "name": "seven70",
+    "model": "seven70",
+    "price": 295000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "Specter2",
+    "model": "specter2",
+    "price": 290000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "sugoi",
+    "model": "sugoi",
+    "price": 290000,
+    "category": "sports",
+    "stock": 9
+  },
+  {
+    "name": "surano",
+    "model": "surano",
+    "price": 210000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "surfer",
+    "model": "surfer",
+    "price": 21000,
+    "category": "vans",
+    "stock": 10
+  },
+  {
+    "name": "t20",
+    "model": "t20",
+    "price": 640000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "tempesta",
+    "model": "tempesta",
+    "price": 690000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "thrax",
+    "model": "thrax",
+    "price": 790000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "toros",
+    "model": "toros",
+    "price": 99000,
+    "category": "suvs",
+    "stock": 10
+  },
+  {
+    "name": "tribike",
+    "model": "tribike",
+    "price": 3500,
+    "category": "cycles",
+    "stock": 10
+  },
+  {
+    "name": "tribike2",
+    "model": "tribike2",
+    "price": 3500,
+    "category": "cycles",
+    "stock": 10
+  },
+  {
+    "name": "tribike3",
+    "model": "tribike3",
+    "price": 3500,
+    "category": "cycles",
+    "stock": 10
+  },
+  {
+    "name": "vstr",
+    "model": "vstr",
+    "price": 220000,
+    "category": "sports",
+    "stock": 10
+  },
+  {
+    "name": "warrener",
+    "model": "warrener",
+    "price": 75000,
+    "category": "muscle",
+    "stock": 10
+  },
+  {
+    "name": "windsor2",
+    "model": "windsor2",
+    "price": 75000,
+    "category": "coupes",
+    "stock": 10
+  },
+  {
+    "name": "xa21",
+    "model": "xa21",
+    "price": 690000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "yosemite2",
+    "model": "yosemite2",
+    "price": 99000,
+    "category": "muscle",
+    "stock": 10
+  },
+  {
+    "name": "youga",
+    "model": "youga",
+    "price": 20000,
+    "category": "vans",
+    "stock": 10
+  },
+  {
+    "name": "zentorno",
+    "model": "zentorno",
+    "price": 720000,
+    "category": "super",
+    "stock": 10
+  },
+  {
+    "name": "zion2",
+    "model": "zion2",
+    "price": 73000,
+    "category": "coupes",
+    "stock": 10
+  },
+  {
+    "name": "zombieb",
+    "model": "zombieb",
+    "price": 56000,
+    "category": "motorcycles",
+    "stock": 10
+  }]

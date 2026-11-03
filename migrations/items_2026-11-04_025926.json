@@ -1,0 +1,825 @@
+[
+  {
+    "name": "Box_01",
+    "label": "กล่องBOX_1",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "Box_02",
+    "label": "กล่องBOX_2",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "Box_03",
+    "label": "กล่องBOX_3",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "Magicseed",
+    "label": "เมล็ดกัญชา",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "Phone",
+    "label": "โทรศัพท์",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "SteelScrap",
+    "label": "แร่เหล็ก",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "acabbage",
+    "label": "กะหล่ำดิบ",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "adrr",
+    "label": "ยาวิ่งไว",
+    "limit": 20,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "aed",
+    "label": "AED",
+    "limit": 10,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "afk_coin",
+    "label": "AFK Coin",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "antist2",
+    "label": "ยาแก้เครียด",
+    "limit": 20,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "armor",
+    "label": "เกราะ",
+    "limit": 20,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "bandage",
+    "label": "ผ้าพันแผล",
+    "limit": 20,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "bandage1",
+    "label": "ยาปั้มHP",
+    "limit": 20,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "bet_afk",
+    "label": "เบ็ดตกปลา",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "boolean",
+    "label": "ที่ดามขา",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "bread",
+    "label": "ขนมปัง",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "c4_door",
+    "label": "ถุงห่อศพ",
+    "limit": 5,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cardx2",
+    "label": "บัตรคูณ2",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cement",
+    "label": "ปูน",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cementwork",
+    "label": "ที่ตัดถุงปูน",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cherry",
+    "label": "เชอร์รี่",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "clip",
+    "label": "แม็กกระสุน",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "coco",
+    "label": "ผลโกโก้",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "coin",
+    "label": "เหรียญทำงาน",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "coin_kiminoto",
+    "label": "เหรียญ",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "coke",
+    "label": "โคเคน",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "coke_pooch",
+    "label": "โคเคนแพ็ค",
+    "limit": 25,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "contract",
+    "label": "ใบโอนรถ",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cookingoil",
+    "label": "น้ำมันทำอาหาร",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "copperrod",
+    "label": "แท่งทองแดง",
+    "limit": 100,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "corn",
+    "label": "อาหารหมา",
+    "limit": 10,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cubediamond",
+    "label": "ก้อนเพรช",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "cut",
+    "label": "กรรไกร",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "dmuncut",
+    "label": "เพชรเจียระไน",
+    "limit": 100,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "fail_kiminoto",
+    "label": "เหรียญดวยซวย",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "fish_afk",
+    "label": "ปลาคราฟ",
+    "limit": 100,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "fixkit",
+    "label": "ที่ซ่อมรถ",
+    "limit": 10,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "freshcabbage",
+    "label": "กะหล่ำปลีแพ็ค",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "fruitbroth",
+    "label": "น้ำซุปผลไม้",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "gacha_01",
+    "label": "Gacha 01",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "gacha_02",
+    "label": "Gacha 02",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "gacha_03",
+    "label": "Gacha 03",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "gacha_04",
+    "label": "Gacha 04",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "gacha_05",
+    "label": "Gacha 05",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "goldbar",
+    "label": "แท่งทองคำ",
+    "limit": 100,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "goldscrap",
+    "label": "เศษทองคำ",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "grape",
+    "label": "องุ่น",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "growup",
+    "label": "น้ำยาเร่งโต",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "hifi",
+    "label": "วิทยุ",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "marijuana",
+    "label": "กัญชาแปรรูป",
+    "limit": 25,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "meatpig",
+    "label": "เนื้อหมู",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "medikit",
+    "label": "ชุดปฐมพยาบาล",
+    "limit": 20,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "melon",
+    "label": "เมล่อน",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "meteorite",
+    "label": "เศษหินเสียหาย",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "meteorite2",
+    "label": "เศษอุกกาบาต",
+    "limit": 120,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "moneystick",
+    "label": "แท่งเงิน",
+    "limit": 100,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "mushroom",
+    "label": "เห็ด",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "non_afk",
+    "label": "เหยื่อตกปลา",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "oil",
+    "label": "น้ำมันดิบ",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "onion",
+    "label": "หัวหอม",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "orange_a",
+    "label": "ผลส้ม",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "orangesmoothie",
+    "label": "น้ำส้ม",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "oxygen_mask",
+    "label": "ถังดำน้ำ",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pearlmilk",
+    "label": "ชานม",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "ped_Dog",
+    "label": "ลูกหมา",
+    "limit": 10,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pinto_beefpm",
+    "label": "ชาบู",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pinto_food",
+    "label": "ปิ่นโต",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pinto_meatpm",
+    "label": "อาหารชุดใหญ่",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pixcar",
+    "label": "ที่ตัดเหล็ก",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "plywood",
+    "label": "ไม้อัด",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "porkpackage",
+    "label": "หมูสามชั้น",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pumpkin",
+    "label": "ฟักทอง",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "pumpkinPie",
+    "label": "ฟักทองแพ็ค",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "punch9",
+    "label": "หมัดสายฟ้า",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "radio",
+    "label": "วอสื่อสาร",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "refinedoil",
+    "label": "น้ำมันกลั่น",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "rice",
+    "label": "ข้าว",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "ricepro",
+    "label": "ข้าวสาร",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "scel",
+    "label": "คีมตัดสายไฟ",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "scrapcopper",
+    "label": "เศษทองแดง",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "scrapmoney",
+    "label": "เศษเงิน",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "seller",
+    "label": "บัตรขายยา",
+    "limit": 1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "shell",
+    "label": "หอย",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "sidedishes",
+    "label": "เครื่องเคียง",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "skateboard",
+    "label": "สเก็ตบอร์ด",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "stone",
+    "label": "แร่ดิบ",
+    "limit": 120,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "stone_p",
+    "label": "หิน",
+    "limit": 60,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "strawberry",
+    "label": "สตรอเบอร์รี่",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "strawberrypro",
+    "label": "น้ำสตรอเบอร์รี่",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "surgency",
+    "label": "บัตรแต่งตัว",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "thinfabric",
+    "label": "ผ้าขาวบาง",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "vault_key",
+    "label": "กุญแจเขียว",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "vault_red",
+    "label": "กุญแจแดง",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "water",
+    "label": "น้ำ",
+    "limit": -1,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "watermelon",
+    "label": "แตงโม",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "watermelonpro",
+    "label": "น้ำแตงโม",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "weed",
+    "label": "กัญชา",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "whitecloth",
+    "label": "เศษผ้า",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "wire",
+    "label": "สายไฟ",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "wood",
+    "label": "ไม้",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "wood_rag",
+    "label": "เปลือกไม้",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  },
+  {
+    "name": "zap_oil",
+    "label": "น้ำมันสน",
+    "limit": 50,
+    "weight": 1,
+    "rare": 0,
+    "can_remove": 1
+  }]

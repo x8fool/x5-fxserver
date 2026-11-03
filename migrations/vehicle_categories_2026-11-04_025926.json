@@ -1,0 +1,49 @@
+[
+  {
+    "name": "compacts",
+    "label": "รถเริ่มต้น"
+  },
+  {
+    "name": "coupes",
+    "label": "รถเก๋ง"
+  },
+  {
+    "name": "cycles",
+    "label": "รถจักรยาน"
+  },
+  {
+    "name": "motorcycles",
+    "label": "รถจักรยานยนต์"
+  },
+  {
+    "name": "muscle",
+    "label": "มัสเซิลคาร์"
+  },
+  {
+    "name": "offroad",
+    "label": "ออฟโร้ด"
+  },
+  {
+    "name": "sedans",
+    "label": "รถเก๋ง2"
+  },
+  {
+    "name": "sports",
+    "label": "รถสปอร์ต"
+  },
+  {
+    "name": "sportsclassics",
+    "label": "รถสปอร์ต คลาสสิก"
+  },
+  {
+    "name": "super",
+    "label": "รถซุปเปอร์คาร์"
+  },
+  {
+    "name": "suvs",
+    "label": "รถเอสยูวี"
+  },
+  {
+    "name": "vans",
+    "label": "รถแวน"
+  }]

@@ -1,0 +1,521 @@
+[
+  {
+    "id": 1,
+    "job_name": "unemployed",
+    "grade": 0,
+    "name": "unemployed",
+    "label": "ว่างงาน",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 6,
+    "job_name": "ambulance",
+    "grade": 0,
+    "name": "ambulance",
+    "label": "นักเรียนแพทย์",
+    "salary": 150,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 7,
+    "job_name": "ambulance",
+    "grade": 1,
+    "name": "doctor",
+    "label": "แพทย์",
+    "salary": 200,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 8,
+    "job_name": "ambulance",
+    "grade": 4,
+    "name": "chief_doctor",
+    "label": "รองผู้อำนวยการแพทย์",
+    "salary": 350,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 9,
+    "job_name": "ambulance",
+    "grade": 5,
+    "name": "boss",
+    "label": "ผู้อำนวยการแพทย์",
+    "salary": 400,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 10,
+    "job_name": "police",
+    "grade": 0,
+    "name": "recruit",
+    "label": "นักเรียนตำรวจ",
+    "salary": 150,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 11,
+    "job_name": "police",
+    "grade": 1,
+    "name": "officer",
+    "label": "จ่า",
+    "salary": 200,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 12,
+    "job_name": "police",
+    "grade": 2,
+    "name": "officer",
+    "label": "หมวด",
+    "salary": 250,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 13,
+    "job_name": "police",
+    "grade": 3,
+    "name": "sergeant",
+    "label": "สารวัต",
+    "salary": 300,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 14,
+    "job_name": "police",
+    "grade": 4,
+    "name": "lieutenant",
+    "label": "รองผบ",
+    "salary": 350,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 15,
+    "job_name": "mechanic",
+    "grade": 0,
+    "name": "recrue",
+    "label": "นักเรียนช่าง",
+    "salary": 100,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 16,
+    "job_name": "mechanic",
+    "grade": 1,
+    "name": "novice",
+    "label": "ช่าง",
+    "salary": 150,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 17,
+    "job_name": "mechanic",
+    "grade": 2,
+    "name": "experimente",
+    "label": "ช่างชํานาญการ",
+    "salary": 200,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 18,
+    "job_name": "mechanic",
+    "grade": 4,
+    "name": "boss",
+    "label": "หัวหน้าช่าง",
+    "salary": 300,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 25,
+    "job_name": "offpolice",
+    "grade": 0,
+    "name": "recruit",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 26,
+    "job_name": "offpolice",
+    "grade": 1,
+    "name": "officer",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 27,
+    "job_name": "offpolice",
+    "grade": 2,
+    "name": "officer",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 28,
+    "job_name": "offpolice",
+    "grade": 3,
+    "name": "officer",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 29,
+    "job_name": "offpolice",
+    "grade": 4,
+    "name": "sergeant",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 30,
+    "job_name": "offambulance",
+    "grade": 0,
+    "name": "ambulance",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 31,
+    "job_name": "offambulance",
+    "grade": 4,
+    "name": "chief_doctor",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 32,
+    "job_name": "offambulance",
+    "grade": 5,
+    "name": "boss",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 34,
+    "job_name": "offmechanic",
+    "grade": 0,
+    "name": "recrue",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 35,
+    "job_name": "offmechanic",
+    "grade": 1,
+    "name": "novice",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 36,
+    "job_name": "offmechanic",
+    "grade": 2,
+    "name": "experimente",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 37,
+    "job_name": "offmechanic",
+    "grade": 3,
+    "name": "chief",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 38,
+    "job_name": "offmechanic",
+    "grade": 5,
+    "name": "boss",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 75,
+    "job_name": "police",
+    "grade": 5,
+    "name": "boss",
+    "label": "ผบ",
+    "salary": 400,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 81,
+    "job_name": "offpolice",
+    "grade": 5,
+    "name": "sergeant",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 82,
+    "job_name": "offpolice",
+    "grade": 6,
+    "name": "sergeant",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 83,
+    "job_name": "offpolice",
+    "grade": 7,
+    "name": "lieutenant",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 85,
+    "job_name": "offpolice",
+    "grade": 8,
+    "name": "lieutenant",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 86,
+    "job_name": "offpolice",
+    "grade": 10,
+    "name": "boss",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 87,
+    "job_name": "offpolice",
+    "grade": 9,
+    "name": "boss",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 88,
+    "job_name": "mechanic",
+    "grade": 3,
+    "name": "chief",
+    "label": "รองหัวหน้าช่าง",
+    "salary": 250,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 89,
+    "job_name": "offmechanic",
+    "grade": 4,
+    "name": "chief",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 90,
+    "job_name": "ambulance",
+    "grade": 2,
+    "name": "doctor",
+    "label": "แพทย์ชำนาญการณ์",
+    "salary": 250,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 91,
+    "job_name": "ambulance",
+    "grade": 3,
+    "name": "chief_doctor",
+    "label": "หัวหน้าแพทย์",
+    "salary": 300,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 92,
+    "job_name": "offambulance",
+    "grade": 1,
+    "name": "doctor",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 93,
+    "job_name": "offambulance",
+    "grade": 2,
+    "name": "doctor",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 94,
+    "job_name": "offambulance",
+    "grade": 3,
+    "name": "chief_doctor",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 95,
+    "job_name": "foodpanda",
+    "grade": 0,
+    "name": "recrue",
+    "label": "พนักงานฝึกหัด",
+    "salary": 100,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 96,
+    "job_name": "foodpanda",
+    "grade": 1,
+    "name": "novice",
+    "label": "พนักงานlineman",
+    "salary": 150,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 97,
+    "job_name": "foodpanda",
+    "grade": 2,
+    "name": "experimente",
+    "label": "หัวหน้าlineman",
+    "salary": 200,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 98,
+    "job_name": "foodpanda",
+    "grade": 3,
+    "name": "boss",
+    "label": "ผู้จัดการ lineman",
+    "salary": 250,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 105,
+    "job_name": "offfoodpanda",
+    "grade": 0,
+    "name": "recrue",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 106,
+    "job_name": "offfoodpanda",
+    "grade": 1,
+    "name": "novice",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 107,
+    "job_name": "offfoodpanda",
+    "grade": 2,
+    "name": "experimente",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 108,
+    "job_name": "offfoodpanda",
+    "grade": 3,
+    "name": "uber",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 109,
+    "job_name": "offambulance",
+    "grade": 4,
+    "name": "boss",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 110,
+    "job_name": "offfoodpanda",
+    "grade": 4,
+    "name": "boss",
+    "label": "ออกเวร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  },
+  {
+    "id": 111,
+    "job_name": "council",
+    "grade": 0,
+    "name": "boss",
+    "label": "สภาผู้แทนราษฎร",
+    "salary": 0,
+    "skin_male": "{}",
+    "skin_female": "{}"
+  }]

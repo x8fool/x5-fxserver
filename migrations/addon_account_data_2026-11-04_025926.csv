@@ -1,0 +1,15 @@
+"id","account_name","money","owner"
+1,"society_ambulance",0,
+2,"society_banker",0,
+3,"society_cardealer",0,
+4,"society_foodpanda",0,
+5,"society_mechanic",0,
+6,"society_police",1700,
+7,"society_police_black_money",0,
+8,"society_realestateagent",0,
+9,"society_taxi",0,
+26,"society_council",0,
+27,"bank_savings",0,"steam:11000015b8b3350"
+28,"property_black_money",0,"steam:11000015b8b3350"
+29,"caution",0,"steam:11000015b8b3350"
+30,"vault_black_money",0,"steam:11000015b8b3350"

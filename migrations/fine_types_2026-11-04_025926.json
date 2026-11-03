@@ -1,0 +1,313 @@
+[
+  {
+    "id": 1,
+    "label": "Usage abusif du klaxon",
+    "amount": 30,
+    "category": 0
+  },
+  {
+    "id": 2,
+    "label": "Franchir une ligne continue",
+    "amount": 40,
+    "category": 0
+  },
+  {
+    "id": 3,
+    "label": "Circulation à contresens",
+    "amount": 250,
+    "category": 0
+  },
+  {
+    "id": 4,
+    "label": "Demi-tour non autorisé",
+    "amount": 250,
+    "category": 0
+  },
+  {
+    "id": 5,
+    "label": "Circulation hors-route",
+    "amount": 170,
+    "category": 0
+  },
+  {
+    "id": 6,
+    "label": "Non-respect des distances de sécurité",
+    "amount": 30,
+    "category": 0
+  },
+  {
+    "id": 7,
+    "label": "Arrêt dangereux / interdit",
+    "amount": 150,
+    "category": 0
+  },
+  {
+    "id": 8,
+    "label": "Stationnement gênant / interdit",
+    "amount": 70,
+    "category": 0
+  },
+  {
+    "id": 9,
+    "label": "Non respect  de la priorité à droite",
+    "amount": 70,
+    "category": 0
+  },
+  {
+    "id": 10,
+    "label": "Non-respect à un véhicule prioritaire",
+    "amount": 90,
+    "category": 0
+  },
+  {
+    "id": 11,
+    "label": "Non-respect d'un stop",
+    "amount": 105,
+    "category": 0
+  },
+  {
+    "id": 12,
+    "label": "Non-respect d'un feu rouge",
+    "amount": 130,
+    "category": 0
+  },
+  {
+    "id": 13,
+    "label": "Dépassement dangereux",
+    "amount": 100,
+    "category": 0
+  },
+  {
+    "id": 14,
+    "label": "Véhicule non en état",
+    "amount": 100,
+    "category": 0
+  },
+  {
+    "id": 15,
+    "label": "Conduite sans permis",
+    "amount": 1500,
+    "category": 0
+  },
+  {
+    "id": 16,
+    "label": "Délit de fuite",
+    "amount": 800,
+    "category": 0
+  },
+  {
+    "id": 17,
+    "label": "Excès de vitesse < 5 kmh",
+    "amount": 90,
+    "category": 0
+  },
+  {
+    "id": 18,
+    "label": "Excès de vitesse 5-15 kmh",
+    "amount": 120,
+    "category": 0
+  },
+  {
+    "id": 19,
+    "label": "Excès de vitesse 15-30 kmh",
+    "amount": 180,
+    "category": 0
+  },
+  {
+    "id": 20,
+    "label": "Excès de vitesse > 30 kmh",
+    "amount": 300,
+    "category": 0
+  },
+  {
+    "id": 21,
+    "label": "Entrave de la circulation",
+    "amount": 110,
+    "category": 1
+  },
+  {
+    "id": 22,
+    "label": "Dégradation de la voie publique",
+    "amount": 90,
+    "category": 1
+  },
+  {
+    "id": 23,
+    "label": "Trouble à l'ordre publique",
+    "amount": 90,
+    "category": 1
+  },
+  {
+    "id": 24,
+    "label": "Entrave opération de police",
+    "amount": 130,
+    "category": 1
+  },
+  {
+    "id": 25,
+    "label": "Insulte envers / entre civils",
+    "amount": 75,
+    "category": 1
+  },
+  {
+    "id": 26,
+    "label": "Outrage à agent de police",
+    "amount": 110,
+    "category": 1
+  },
+  {
+    "id": 27,
+    "label": "Menace verbale ou intimidation envers civil",
+    "amount": 90,
+    "category": 1
+  },
+  {
+    "id": 28,
+    "label": "Menace verbale ou intimidation envers policier",
+    "amount": 150,
+    "category": 1
+  },
+  {
+    "id": 29,
+    "label": "Manifestation illégale",
+    "amount": 250,
+    "category": 1
+  },
+  {
+    "id": 30,
+    "label": "Tentative de corruption",
+    "amount": 1500,
+    "category": 1
+  },
+  {
+    "id": 31,
+    "label": "Arme blanche sortie en ville",
+    "amount": 120,
+    "category": 2
+  },
+  {
+    "id": 32,
+    "label": "Arme léthale sortie en ville",
+    "amount": 300,
+    "category": 2
+  },
+  {
+    "id": 33,
+    "label": "Port d'arme non autorisé (défaut de license)",
+    "amount": 600,
+    "category": 2
+  },
+  {
+    "id": 34,
+    "label": "Port d'arme illégal",
+    "amount": 700,
+    "category": 2
+  },
+  {
+    "id": 35,
+    "label": "Pris en flag lockpick",
+    "amount": 300,
+    "category": 2
+  },
+  {
+    "id": 36,
+    "label": "Vol de voiture",
+    "amount": 1800,
+    "category": 2
+  },
+  {
+    "id": 37,
+    "label": "Vente de drogue",
+    "amount": 1500,
+    "category": 2
+  },
+  {
+    "id": 38,
+    "label": "Fabriquation de drogue",
+    "amount": 1500,
+    "category": 2
+  },
+  {
+    "id": 39,
+    "label": "Possession de drogue",
+    "amount": 650,
+    "category": 2
+  },
+  {
+    "id": 40,
+    "label": "Prise d'ôtage civil",
+    "amount": 1500,
+    "category": 2
+  },
+  {
+    "id": 41,
+    "label": "Prise d'ôtage agent de l'état",
+    "amount": 2000,
+    "category": 2
+  },
+  {
+    "id": 42,
+    "label": "Braquage particulier",
+    "amount": 650,
+    "category": 2
+  },
+  {
+    "id": 43,
+    "label": "Braquage magasin",
+    "amount": 650,
+    "category": 2
+  },
+  {
+    "id": 44,
+    "label": "Braquage de banque",
+    "amount": 1500,
+    "category": 2
+  },
+  {
+    "id": 45,
+    "label": "Tir sur civil",
+    "amount": 2000,
+    "category": 3
+  },
+  {
+    "id": 46,
+    "label": "Tir sur agent de l'état",
+    "amount": 2500,
+    "category": 3
+  },
+  {
+    "id": 47,
+    "label": "Tentative de meurtre sur civil",
+    "amount": 3000,
+    "category": 3
+  },
+  {
+    "id": 48,
+    "label": "Tentative de meurtre sur agent de l'état",
+    "amount": 5000,
+    "category": 3
+  },
+  {
+    "id": 49,
+    "label": "Meurtre sur civil",
+    "amount": 10000,
+    "category": 3
+  },
+  {
+    "id": 50,
+    "label": "Meurte sur agent de l'état",
+    "amount": 30000,
+    "category": 3
+  },
+  {
+    "id": 51,
+    "label": "Meurtre involontaire",
+    "amount": 1800,
+    "category": 3
+  },
+  {
+    "id": 52,
+    "label": "Escroquerie à l'entreprise",
+    "amount": 2000,
+    "category": 2
+  }]
